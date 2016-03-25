@@ -1,0 +1,19 @@
+CSC 370: Programming Exercise #2
+Basic 3D Rendering with Raycasting Algorithm
+
+For this project you will need a graphics context to which you can draw pixels.
+Your first project with image-buffer and drawPixel() functionality will work well.
+
+Complete the following and upload by the due date:
+
+1. Implement a basic ray-casting algorithm that includes ray-sphere intersections.
+Create four spheres of different color that are visible within your camera.
+Complete an orthographic and a perspective render that includes at least
+portions of all four spheres. Write your images to two .sif files.
+
+2. Implement Blinn shading and use with at least one point light to add basic
+shading to your scene from above. Complete both an orthographic and
+perspective render. Write your images to two .sif files.
+
+3. Submit your renders bundled together in a .tgz or .zip file named
+   370LastnameFirstname.tgz. 
